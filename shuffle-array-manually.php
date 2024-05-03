@@ -1,6 +1,6 @@
 <?php
 /*
-shuffle the array manually without using php sort function 
+shuffle the array manually without using php shuffle function 
 */
 function manualShuffle($array){
     $shuffledArr = [];
